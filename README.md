@@ -1,13 +1,12 @@
-
 <a name="oben"></a>
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/Paper-Circuit-Kippstufe/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Paper-Circuit-Kippstufe/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Paper-Circuit-Kippstufe/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/SPaper-Circuit-Kippstufe/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/SPaper-Circuit-Kippstufe/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/SPaper-Circuit-Kippstufe/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2013-blue)|<a href="https://github.com/frankyhub/Paper-Circuit-Kippstufe/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Paper-Circuit-Kippstufe)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Paper-Circuit-Kippstufe)|<a href="https://github.com/frankyhub/Paper-Circuit-Kippstufe/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Paper-Circuit-Kippstufe)|<a href="https://github.com/frankyhub/Paper-Circuit-Kippstufe/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Paper-Circuit-Kippstufe)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Paper-Circuit-Kippstufe)| <a href="https://github.com/frankyhub/Paper-Circuit-Kippstufe/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Paper-Circuit-Kippstufe/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/SPaper-Circuit-Kippstufe/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/SPaper-Circuit-Kippstufe)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/SPaper-Circuit-Kippstufe)|<a href="https://github.com/frankyhub/SPaper-Circuit-Kippstufe/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/SPaper-Circuit-Kippstufe)|<a href="https://github.com/frankyhub/SPaper-Circuit-Kippstufe/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/SPaper-Circuit-Kippstufe)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2013-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/SPaper-Circuit-Kippstufe)| <a href="https://github.com/frankyhub/SPaper-Circuit-Kippstufe/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/SPaper-Circuit-Kippstufe/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 </div>
 
 
@@ -18,7 +17,8 @@ Einfache Blinkschaltung mit zwei Transistoren und zwei LEDs
 
 ## Schaltplan
 
-![Schaltplan](/pic/Schaltplan.png)
+<img src="pic/Schaltplan.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -44,7 +44,8 @@ LED D2 erlischt und LED D1 leuchtet. Der Zyklus biginnt von vorne.
 
 ## Berechnung der Frequenz
 
-![Bild](/pic/Formel.png)
+<img src="pic/Formel.png" width="500"> 
+<br> <br>
 
 In unserem Beispiel mit R=47k und C=10uF beträgt die Blinkfrequenz ca. 1,5Hz
 
@@ -56,22 +57,26 @@ Verwende beidseitig leitendes CU-Klebeband.
 
 Variante 1:
 
-![Bild](/pic/PaperCircuit1.png)
+<img src="pic/PaperCircuit1.png" width="500"> 
+<br> <br>
 
 Variante 2:
 
-![Bild](/pic/PaperCircuit2.png)
+<img src="pic/PaperCircuit2.png" width="500"> 
+<br> <br>
 
 Variante 3:
 
-![Bild](/pic/PaperCircuit3.png)
+<img src="pic/PaperCircuit3.png" width="500"> 
+<br> <br>
 
 Farbcode der Widerstände:
 
-![Bild](/pic/470R.png)
+<img src="pic/470R.png" width="500"> 
+<br> <br>
 
-
-![Bild](/pic/47k.png)
+<img src="pic/47k.png" width="500"> 
+<br> <br>
 
 ---
 
